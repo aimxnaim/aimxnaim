@@ -12,7 +12,7 @@ developing my Python and web development skills.😁</h3>
 
 - 📫 How to reach me **aimanaim0512@gmail.com**
 
-- ⚡ Fun fact **I am a food lover😋**
+- ⚡ Fun fact **I am a food lover😋😋**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
