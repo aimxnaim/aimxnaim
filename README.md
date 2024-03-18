@@ -36,10 +36,6 @@ developing my Python and web development skills.😁</h3>
  
 </div>
 
-<h3 align="left">Currently Listening to:</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=erhrkixiik164t4k802v8us3r&unique={true|1|on|yes})
-
 
 ###
 
