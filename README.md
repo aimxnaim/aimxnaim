@@ -10,7 +10,7 @@ developing my Python and web development skills.😁</h3>
 
 <br clear="both">
 
-<h2 align="center">Language and Tools:</h2>
+<h2 align="center">🔨Language and Tools:</h2>
 
 ###
 
@@ -38,7 +38,7 @@ developing my Python and web development skills.😁</h3>
 
 ###
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">🔥My Stats</h2>
 
 ###
 
