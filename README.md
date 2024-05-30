@@ -1,21 +1,13 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+<div align="center">
+  <img height="225" width="1000" src="galaxy-header.png"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Aiman Naim</h1>
 <h3 align="center">I am a computer science student with a strong focus on <br>
 developing my Python and web development skills.😁</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-
-
-- 🔭 I’m currently working on **A Sentiment Analysis Approach to University Student Mental Health. 👨‍⚕️**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **aimanaim0512@gmail.com**
-
-- ⚡ Fun fact **I am a food lover😋😋**
-
-
-###
 <br clear="both">
 
 <h2 align="center">Language and Tools:</h2>
