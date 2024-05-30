@@ -4,7 +4,7 @@
 developing my Python and web development skills.😁</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aimxnaim&label=Profile%20views&color=0e75b6&style=flat" alt="aimxnaim" /> </p>
+
 
 - 🔭 I’m currently working on **A Sentiment Analysis Approach to University Student Mental Health. 👨‍⚕️**
 
@@ -17,7 +17,9 @@ developing my Python and web development skills.😁</h3>
 
 ###
 <br>
-<h4 align="center">My Stats</h4>
+<br clear="both">
+
+<h2 align="center">My Stats</h2>
 
 ###
 
@@ -29,7 +31,9 @@ developing my Python and web development skills.😁</h3>
 
 ###
 
-<h4 align="center">Language and Tools:</h4>
+<br clear="both">
+
+<h2 align="center">Language and Tools:</h2>
 
 ###
 
@@ -57,7 +61,9 @@ developing my Python and web development skills.😁</h3>
 
 ###
 
-<h4 align="center">Connect with me:</h4>
+<br clear="both">
+
+<h2 align="center">Connect with me:</h2>
 
 ###
 
