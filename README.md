@@ -4,17 +4,15 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Aiman Naim</h1>
-<h4 align="center">I am a recent graduate with a BSc in Computer Science (Hons.) with a first-class degree, passionate about full stack development. 
-With nearly 2 years of hands-on programming experience during my university life, I thrive on the challenges of developing websites from scratch. I have honed my skills in front-end technologies like React.js, as well as back-end technologies including Node.js, Express.js, MongoDB, and PostgreSQL.</h4>
+<h1 align="left">Hi 👋, Aiman Naim here</h1>
+<p align="left">I am a recent graduate with a BSc in Computer Science (Hons.) with a first-class degree, passionate about full stack development. 
+With nearly 2 years of hands-on programming experience during my university life, I thrive on the challenges of developing websites from scratch. I have honed my skills in front-end technologies like React.js, as well as back-end technologies including Node.js, Express.js, MongoDB, and PostgreSQL.</p>
 
 <br clear="both">
 
-<h2 align="center">🔨Language and Tools:</h2>
+<h2 align="left">🔨Language and Tools:</h2>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
@@ -38,11 +36,11 @@ With nearly 2 years of hands-on programming experience during my university life
 
 ###
 
-<h2 align="center">🔥My Stats</h2>
+<h2 align="left">🔥My Stats</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aimxnaim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aimxnaim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aimxnaim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -50,11 +48,11 @@ With nearly 2 years of hands-on programming experience during my university life
 
 ###
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/aimannaimfaizul/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
