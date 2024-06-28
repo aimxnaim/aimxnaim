@@ -5,8 +5,8 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Aiman Naim</h1>
-<h3 align="center">I am a computer science student with a strong focus on <br>
-developing my Python and web development skills.😁</h3>
+<h4 align="center">I am a recent graduate with a BSc in Computer Science (Hons.) with a first-class degree, passionate about full stack development. 
+With nearly 2 years of hands-on programming experience during my university life, I thrive on the challenges of developing websites from scratch. I have honed my skills in front-end technologies like React.js, as well as back-end technologies including Node.js, Express.js, MongoDB, and PostgreSQL.</h4>
 
 <br clear="both">
 
