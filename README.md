@@ -67,6 +67,35 @@ With nearly 2 years of hands-on programming experience during my university life
 
 ###
 
+## Hi there! 👋
+
+I'm Aiman Naim, an Associate Technology Consultant specializing in Digital Engineering. I work as a full-stack developer with a passion for building innovative solutions. Let's create something amazing together!
+
+## About Me
+
+Based in Selangor, Malaysia, I currently work at EY Malaysia. With a background in technology consulting, I focus on delivering high-quality digital solutions. My journey in tech has equipped me with the skills to tackle complex challenges.
+
+## Skills & Technologies
+
+angular,react,docker,mongodb,nodejs,express,github,bootstrap
+
+## Top Projects
+
+- [GadgetUniverse](https://github.com/aimxnaim/GadgetUniverse): A full eCommerce site built using MERN stack. ⭐ 0 Stars
+- [CampVenture](https://github.com/aimxnaim/CampVenture): A project built with Node.js, Express, and MongoDB for managing camp activities. ⭐ 0 Stars
+- [password-manager](https://github.com/aimxnaim/password-manager): A project for managing passwords securely, developed as part of a group project. ⭐ 0 Stars
+
+## GitHub Stats
+
+🏆 **Public Repositories**: 9  
+👥 **Followers**: 4  
+🔗 **Following**: 9  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimxnaim&show_icons=true&theme=radical)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/aimannaimfaizul/","instagram":"https://www.instagram.com/aimxnaim/"}
+
 
 
 
