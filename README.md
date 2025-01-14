@@ -4,17 +4,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aimxnaim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-
-###
-## Hi there! 👋
-
-I'm Aiman Naim, an Associate Technology Consultant specializing in Digital Engineering. I work as a full-stack developer with a passion for building innovative solutions. Let's create something amazing together!
-
-## About Me
-
-Based in Selangor, Malaysia, I currently work at EY Malaysia. With a background in technology consulting, I focus on delivering high-quality digital solutions. My journey in tech has equipped me with the skills to tackle complex challenges.
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,docker,mongodb,nodejs,express,github,bootstrap&perline=8)](https://skillicons.dev)
@@ -23,11 +12,9 @@ Based in Selangor, Malaysia, I currently work at EY Malaysia. With a background 
 
 [![GadgetUniverse](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=GadgetUniverse&theme=dark)](https://github.com/aimxnaim/GadgetUniverse)
 [![CampVenture](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=CampVenture&theme=dark)](https://github.com/aimxnaim/CampVenture)
-[![password-manager](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=password-manager&theme=dark)](https://github.com/aimxnaim/password-manager)
 
 ## GitHub Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimxnaim&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimxnaim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
