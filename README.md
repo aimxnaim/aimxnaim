@@ -1,10 +1,9 @@
 
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aimxnaim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Skills & Technologies
 
