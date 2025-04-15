@@ -1,6 +1,6 @@
 
 
-## 📊 Weekly Development Breakdown
+## 🧑‍💻 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -14,16 +14,16 @@ Bash         21 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,docker,mongodb,nodejs,express,github,bootstrap&perline=8)](https://skillicons.dev)
 
-## Top Projects
+## 🏭 Top Projects
 
 [![GadgetUniverse](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=GadgetUniverse&theme=dark)](https://github.com/aimxnaim/GadgetUniverse)
 [![CampVenture](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=CampVenture&theme=dark)](https://github.com/aimxnaim/CampVenture)
 
-## GitHub Stats
+## 🕛 GitHub Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimxnaim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
