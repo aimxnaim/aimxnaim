@@ -20,7 +20,7 @@ Prisma       16 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 🛠️ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,docker,mongodb,nodejs,express,github,bootstrap&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,docker,mongodb,nodejs,express,github,bootstrap,prisma,postman,postgres&perline=8)](https://skillicons.dev)
 
 ## 🏭 Top Projects
 
