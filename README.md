@@ -28,8 +28,10 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 [![CampVenture](https://github-readme-stats.vercel.app/api/pin/?username=aimxnaim&repo=CampVenture&theme=dark)](https://github.com/aimxnaim/CampVenture)
 
 ## 🕛 GitHub Stats
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimxnaim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![aimxnaim's Stats](https://github-readme-stats.vercel.app/api?username=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![aimxnaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
