@@ -30,8 +30,8 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 ## 🕛 GitHub Stats
 
 ![aimxnaim's Streak](https://streak-stats.demolab.com?user=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true)
-![aimxnaim's Stats](https://github-readme-stats.vercel.app/api?username=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![aimxnaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![aimxnaim's Stats](https://github-readme-stats.vercel.app/api?username=aimxnaim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 
