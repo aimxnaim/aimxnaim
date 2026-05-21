@@ -11,13 +11,13 @@
 ```txt
 From: 13 May 2026 - To: 20 May 2026
 
-Total Time: 22 hrs 6 mins
+Total Time: 22 hrs 44 mins
 
-TypeScript   18 hrs 59 mins        █████████████████████░░░░   83.55 %
-HTML         2 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Other        37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+TypeScript   19 hrs 35 mins        █████████████████████▓░░░   86.19 %
+HTML         2 hrs 32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
 JSON         25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 TSConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Bash         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
